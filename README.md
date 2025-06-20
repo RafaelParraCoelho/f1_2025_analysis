@@ -21,3 +21,4 @@ Este projeto coleta dados da temporada 2025 de Fórmula 1 da Wikipedia, salva as
 
 ```bash
 pip install requests beautifulsoup4 pandas matplotlib
+ 
