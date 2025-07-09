@@ -1,23 +1,23 @@
 Pos.,Driver,Aus,Chn,Jpn,Bhr,Sau,Mia,Emi,Mon,Esp,Can,Aut,Gbr,Bel,Hun,Ned,Ita,Aze,Sin,Usa,Mxc,Sap,Lvg,Qat,Abu,Points
-1,Oscar Piastri,9,12 P,3,1PF,1,12,3P,3,1PF,4,,,,,,,,,,,,,,,198.0
-2,Lando Norris,1PF,28 F,2,3,4F,21 F,2,1PF,2,18†,,,,,,,,,,,,,,,176.0
-3,Max Verstappen,2,43,1P,6,2P,4P,1F,4,10,2,,,,,,,,,,,,,,,155.0
-4,George Russell,3,34,5,2,5,34,7,11,4,1PF,,,,,,,,,,,,,,,136.0
-5,Charles Leclerc,8,DSQ5,4,4,3,7,6,2,3,5,,,,,,,,,,,,,,,104.0
-6,Lewis Hamilton,10,DSQ1,7,5,7,83,4,5,6,6,,,,,,,,,,,,,,,79.0
-7,Andrea Kimi Antonelli,4,67,6F,11,6,67,Ret,18,Ret,3,,,,,,,,,,,,,,,63.0
-8,Alexander Albon,5,7,9,12,9,5,5,9,Ret,Ret,,,,,,,,,,,,,,,42.0
-9,Esteban Ocon,13,5,18,8,14,12,Ret,7,16,9,,,,,,,,,,,,,,,22.0
-10,Isack Hadjar,DNS,11,8,13,10,11,9,6,7,16,,,,,,,,,,,,,,,21.0
-11,Nico Hülkenberg,7,15,16,DSQ,15,14,12,16,5,8,,,,,,,,,,,,,,,20.0
-12,Lance Stroll,6,9,20,17,16,165,15,15,WD,17,,,,,,,,,,,,,,,14.0
-13,Carlos Sainz Jr.,Ret,10,14,Ret,8,9,8,10,14,10,,,,,,,,,,,,,,,13.0
-14,Pierre Gasly,11,DSQ,13,7,Ret,138,13,Ret,8,15,,,,,,,,,,,,,,,11.0
-15,Yuki Tsunoda,12,166,12,9,Ret,106,10,17,13,12,,,,,,,,,,,,,,,10.0
-16,Fernando Alonso,Ret,Ret,11,15,11,15,11,Ret,9,7,,,,,,,,,,,,,,,8.0
-17,Oliver Bearman,14,8,10,10,13,Ret,17,12,17,11,,,,,,,,,,,,,,,6.0
-18,Liam Lawson,Ret,12,17,16,12,Ret,14,8,11,Ret,,,,,,,,,,,,,,,4.0
-19,Gabriel Bortoleto,Ret,14,19,18,18,Ret,18,14,12,14,,,,,,,,,,,,,,,0.0
-20,Franco Colapinto,,,,,,,16,13,15,13,,,,,,,,,,,,,,,0.0
+1,Oscar Piastri,9,12 P,3,1PF,1,12,3P,3,1PF,4,2F,2F,,,,,,,,,,,,,234.0
+2,Lando Norris,1PF,28 F,2,3,4F,21 F,2,1PF,2,18†,1P,1,,,,,,,,,,,,,226.0
+3,Max Verstappen,2,43,1P,6,2P,4P,1F,4,10,2,Ret,5P,,,,,,,,,,,,,165.0
+4,George Russell,3,34,5,2,5,34,7,11,4,1PF,5,10,,,,,,,,,,,,,147.0
+5,Charles Leclerc,8,DSQ5,4,4,3,7,6,2,3,5,3,14,,,,,,,,,,,,,119.0
+6,Lewis Hamilton,10,DSQ1,7,5,7,83,4,5,6,6,4,4,,,,,,,,,,,,,103.0
+7,Andrea Kimi Antonelli,4,67,6F,11,6,67,Ret,18,Ret,3,Ret,Ret,,,,,,,,,,,,,63.0
+8,Alexander Albon,5,7,9,12,9,5,5,9,Ret,Ret,Ret,8,,,,,,,,,,,,,46.0
+9,Nico Hülkenberg,7,15,16,DSQ,15,14,12,16,5,8,9,3,,,,,,,,,,,,,37.0
+10,Esteban Ocon,13,5,18,8,14,12,Ret,7,16,9,10,13,,,,,,,,,,,,,23.0
+11,Isack Hadjar,DNS,11,8,13,10,11,9,6,7,16,12,Ret,,,,,,,,,,,,,21.0
+12,Lance Stroll,6,9,20,17,16,165,15,15,WD,17,14,7,,,,,,,,,,,,,20.0
+13,Pierre Gasly,11,DSQ,13,7,Ret,138,13,Ret,8,15,13,6,,,,,,,,,,,,,19.0
+14,Fernando Alonso,Ret,Ret,11,15,11,15,11,Ret,9,7,7,9,,,,,,,,,,,,,16.0
+15,Carlos Sainz Jr.,Ret,10,14,Ret,8,9,8,10,14,10,DNS,12,,,,,,,,,,,,,13.0
+16,Liam Lawson,Ret,12,17,16,12,Ret,14,8,11,Ret,6,Ret,,,,,,,,,,,,,12.0
+17,Yuki Tsunoda,12,166,12,9,Ret,106,10,17,13,12,16,15,,,,,,,,,,,,,10.0
+18,Oliver Bearman,14,8,10,10,13,Ret,17,12,17,11,11,11,,,,,,,,,,,,,6.0
+19,Gabriel Bortoleto,Ret,14,19,18,18,Ret,18,14,12,14,8,Ret,,,,,,,,,,,,,4.0
+20,Franco Colapinto,,,,,,,16,13,15,13,15,DNS,,,,,,,,,,,,,0.0
 21,Jack Doohan,Ret,13,15,14,17,Ret,,,,,,,,,,,,,,,,,,,0.0
 Pos.,Driver,AUS,CHN,JPN,BHR,SAU,MIA,EMI,MON,ESP,CAN,AUT,GBR,BEL,HUN,NED,ITA,AZE,SIN,USA,MXC,SAP,LVG,QAT,ABU,
